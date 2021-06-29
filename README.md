@@ -25,10 +25,10 @@ Technologies used are as follows
 * Jquary
 * Markdown
 
-## contact details
+## contact details:
 *Email:Simonalexno@gmail.com
 
-### License
+### License:
 Copyright SIMON MUNGAI 2021
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
