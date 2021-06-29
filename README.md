@@ -24,7 +24,7 @@ Technologies used are as follows
 * CSS
 * javascript
 * jquary
-
+* markdown
 
 ## contact details
 *Email Simonalexno@gmail.com
