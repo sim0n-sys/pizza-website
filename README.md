@@ -17,7 +17,7 @@ This is a website that allow consumers to order pizza from Kalos pizza place.
 * Clone the repository
 * Paste it on the browser
 
-## Technologies Used
+## Technologies Used:
 Technologies used are as follows
 * HTML5
 * CSS
