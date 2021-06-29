@@ -23,6 +23,7 @@ Technologies used are as follows
 * HTML5
 * CSS
 * javascript
+* jquary
 
 
 ## contact details
