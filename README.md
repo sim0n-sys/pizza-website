@@ -27,7 +27,7 @@ Technologies used are as follows
 * Markdown
 
 ## contact details
-*Email Simonalexno@gmail.com
+*Email:Simonalexno@gmail.com
 
 ### License
 Copyright SIMON MUNGAI 2021
