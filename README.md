@@ -15,7 +15,6 @@ This is a website that allow consumers to order pizza from Kalos pizza place.
 
 # Setup/Installation Requirements
 * Clone the repository
-
 * Paste it on the browser
 
 ## Technologies Used
