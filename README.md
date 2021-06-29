@@ -1,7 +1,7 @@
 ## KALOS PIZZA PLACE
 This is a responsive one page website for a Pizza restaurant. It is a front-end only website that provides visitors with:
 
-*Pizza Menu with toppings details, prices, pictures and a modal window for Order options
+* Pizza Menu with toppings details, prices, pictures and a modal window for Order options
 *Contact details including an embedded google map, opening hours, address and phone number
 *Information about the history and cooking tradition of the Pizza Restaurant A contact form
 
