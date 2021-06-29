@@ -22,9 +22,9 @@ This is a website that allow consumers to order pizza from Kalos pizza place.
 Technologies used are as follows
 * HTML5
 * CSS
-* javascript
-* jquary
-* markdown
+* Javascript
+* Jquary
+* Markdown
 
 ## contact details
 *Email Simonalexno@gmail.com
