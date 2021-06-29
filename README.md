@@ -7,7 +7,7 @@ This is a responsive one page website for a Pizza restaurant. It is a front-end 
 
 
 ## ATHOR
-Simon Mungai Njoroge- This project was completed as part of Code Moringa Mentored Online Full Stack Web Development course in 2021.
+imon Mungai Njoroge- This project was completed as part of Code Moringa Mentored Online Full Stack Web Development course in 2021.
 
 #### BRIEF DESCRIPTION
 This is a website that allow consumers to order pizza from Kalos pizza place. 
