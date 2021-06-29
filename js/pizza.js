@@ -394,7 +394,6 @@ $(function () {
             + newOrder.total + "<br><br>").css('font-family', 'system-ui').css('font-size', '24px');
     });
 
-
     $(".deliver").click(function () {
         $('.summary').slideUp();
         $('#list').slideUp();
@@ -404,11 +403,9 @@ $(function () {
         $('.cdata-overlay').slideDown();
     });
 
-
     $(".delivernot").click(function () {
 
     });
-
 
     $(function () {
         $.scrollify.move('#sum-order');
