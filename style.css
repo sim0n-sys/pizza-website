@@ -1,0 +1,220 @@
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+#spantext {
+    color: yellow;
+}
+
+.nav1 {
+    float: right;
+}
+
+.nav-items {
+    display: inline;
+    margin-right: 20px;
+    margin-left: 12px;
+    color: orange;
+    text-decoration: none;
+    font-size: 2em;
+    
+}
+.nav-items:hover{
+    color: #000;
+}
+.exc {
+    color: yellow;
+}
+
+#kalos {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 35px;
+    font-weight: normal;
+    color: darkorange;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.h-buttons {
+    margin-top: 90px;
+    margin-bottom: 100px;
+}
+
+h-buttons button {
+    border-radius: 40px;
+    color: white;
+}
+
+.menu-btn {
+    border-radius: 20px;
+    margin-top: 20px;
+    color: white;
+}
+
+#menu {
+    padding-top: 20px;
+}
+
+#list li {
+    font-size: 24px;
+    font-family: system-ui, serif;
+}
+
+.order-summary h1, .summary, .contact {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 30px;
+}
+
+.contacts {
+    background-image: url("images/contacimage.webp");
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+    /* opacity: 0.5; */
+}
+
+.contact-overlay {
+    height: inherit;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.click-me {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.get-pizza {
+    margin-top: 40px;
+}
+
+.contact {
+    padding-top: 20px;
+}
+
+.go {
+    border-radius: 20px;
+}
+
+.click-me, button[type=submit], .deliver, .delivernot {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    letter-spacing: 2px;
+    background-color: hsl(12, 100%, 50%);
+    outline: none;
+    padding: 12.5px 13px;
+    border: none;
+    border-radius: 33px;
+    font-size: 14px;
+}
+
+.deliver, .delivernot {
+    margin: 10px;
+}
+
+#order-pizza {
+    padding: 20px 50px 20px 50px;
+    font-family: 'Jomhuria', cursive;
+}
+
+.order-overlay {
+    height: inherit;
+    padding: 20px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.9);
+    border-radius: 20px;
+}
+
+.menu {
+    margin-top: 30px;
+    color: white;
+    background-image: url('https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGl6emElMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60');
+    padding: 0;
+    background-repeat: no-repeat;
+}
+
+.menu-overlay {
+    height: inherit;
+    width: inherit;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.cool {
+    background-image: url("https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHBpenphJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60");
+    background-size: cover;
+    align-items: center;
+    height: 750px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding: 100px;
+}
+.go {
+    margin-bottom: 400px;
+}
+#push {
+    padding-top: 20%;
+}
+
+.landing-text {
+    margin-top: 10%;
+}
+
+.landing-text h1, h2 {
+    font-family: 'Love Ya Like A Sister', cursive;
+}
+
+.landing-text h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 60px;
+}
+
+.top-nav-collapse {
+    background-color: #3f51b5 !important;
+}
+
+.navbar:not(.top-nav-collapse) {
+    background: transparent !important;
+}
+
+@media (max-width: 740px) {
+    html, body, header, .view {
+        height: 1000px;
+        overflow-x: hidden;
+    }
+    #push {
+        padding-top: 40%;
+    }
+    .menu-overlay {
+        width: 100%;
+        height: inherit;
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+    .welcome {
+        padding-top: 10px;
+    }
+    .cdata {
+        padding: 10px 5px 10px 5px;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 850px) {
+    ul>.nav-items {
+        display: inline;
+        margin-right: 20px;
+        margin-left: 12px;
+        text-decoration: none;
+        font-size: 2em;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar:not(.top-nav-collapse) {
+        background: darkred !important;
+    }
+}
