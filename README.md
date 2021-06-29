@@ -14,15 +14,16 @@ This is a website that allow consumers to order pizza from Kalos pizza place.
 ![kalos](https://user-images.githubusercontent.com/85111243/123802047-85e59400-d8f3-11eb-8e15-a27e272766d1.png)
 
 # Setup/Installation Requirements
-*Clone the repository
+* Clone the repository
 
-*Paste it on the browser
+* Paste it on the browser
 
 ## Technologies Used
 Technologies used are as follows
 * HTML5
 * CSS
-*javascript
+* javascript
+
 
 ## contact details
 *Email Simonalexno@gmail.com
