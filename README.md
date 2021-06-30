@@ -1,9 +1,9 @@
 ## KALOS PIZZA PLACE
 This is a responsive one page website for a Pizza restaurant. It is a front-end only website that provides visitors with:
 
-* Pizza Menu with toppings details, prices, pictures and a modal window for Order options
-* Contact details including an embedded google map, opening hours, address and phone number
-* Information about the history and cooking tradition of the Pizza Restaurant A contact form
+*Pizza Menu with toppings details, prices, pictures and a modal window for Order options
+*Contact details including an embedded google map, opening hours, address and phone number
+*Information about the history and cooking tradition of the Pizza Restaurant A contact form
 
 
 ## ATHOR
@@ -14,21 +14,19 @@ This is a website that allow consumers to order pizza from Kalos pizza place.
 ![kalos](https://user-images.githubusercontent.com/85111243/123802047-85e59400-d8f3-11eb-8e15-a27e272766d1.png)
 
 # Setup/Installation Requirements
-* Clone the repository
-* Paste it on the browser
+*Clone the repository
+*Paste it on the browser
 
-## Technologies Used:
+## Technologies Used
 Technologies used are as follows
 * HTML5
 * CSS
-* Javascript
-* Jquary
-* Markdown
+*javascript
 
-## contact details:
-*Email:Simonalexno@gmail.com
+## contact details
+*Email Simonalexno@gmail.com
 
-### License:
+### License
 Copyright SIMON MUNGAI 2021
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
