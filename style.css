@@ -2,27 +2,36 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
-
-#spantext {
-    color: yellow;
+.topnav {
+    background-color: white;
+    overflow: hidden;
 }
 
-.nav1 {
+/* Style the links inside the navigation bar */
+
+.topnav a {
     float: right;
+    color: rgb(156, 156, 240);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
 }
 
-.nav-items {
-    display: inline;
-    margin-right: 20px;
-    margin-left: 12px;
-    color: orange;
-    text-decoration: none;
-    font-size: 2em;
-    
+/* Change the color of links on hover */
+
+.topnav a:hover {
+    background-color: white;
+    color: blue;
 }
-.nav-items:hover{
-    color: #000;
+
+/* Add a color to the active/current link */
+
+.topnav a.active {
+    background-color: blue;
+    color: white;
 }
+
 .exc {
     color: yellow;
 }
@@ -103,10 +112,9 @@ h-buttons button {
 .click-me, button[type=submit], .deliver, .delivernot {
     color: #fff;
     text-decoration: none;
-    text-transform: uppercase;
     display: inline-block;
     letter-spacing: 2px;
-    background-color: hsl(12, 100%, 50%);
+    background-color: red;
     outline: none;
     padding: 12.5px 13px;
     border: none;
